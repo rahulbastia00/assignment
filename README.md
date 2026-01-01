@@ -57,7 +57,7 @@ This Jupyter Notebook, titled "internship_assignment.ipynb," details a data anal
 
 
 **4. Visualizations**
-
+![Alt Text](visual.png)
 * **Chart 1:** Bar plot showing "Average Trader ROI (%) Across Market Sentiments".
 * **Chart 2:** Line plot comparing "Smart Money vs. Retail Performance" across sentiment categories.
 
